@@ -1,3 +1,10 @@
 class Dog 
-  def 
+  def bark 
+    puts "Woof!"
+  end
+  def sit 
+    puts ""
+  end
 end
+
+fido = Dog.new
